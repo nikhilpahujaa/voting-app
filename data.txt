@@ -1,0 +1,23 @@
+{
+    "name": "Narendra Modi",
+    "party": "BJP",
+    "age": 71
+}
+
+{
+    "name": "Rahul Gandhi",
+    "party": "INC",
+    "age": 51
+}
+
+{
+    "name": "Arvind Kejriwal",
+    "party": "Aam Aadmi Party",
+    "age": 55
+}
+
+{
+    "name": "Mamata Banerjee",
+    "party": "All India Trinamool Congress",
+    "age": 69
+}
